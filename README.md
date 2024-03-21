@@ -2,11 +2,15 @@
 Ikann Bot adalah Bot Yang dibuat Oleh User WA yang Bernama "Ikann" **(Entah Kok Bisa Namanya Ikan :V)**
 
 ## Tutorial
-### 1. Install Package
+### 1. Download File Botnya dari GitHub
+### 2. Install Package
+**Ketik kode ini di Terminal**
+(Pastikan sudah Mendownload NodeJS)
 ```
 npm install
 ```
-### 2. Jalankan bot
+### 3. Jalankan bot
+**Ketik kode ini di Terminal**
 ```
 npm run start
 ```
